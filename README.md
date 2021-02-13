@@ -7,3 +7,5 @@ harassment and toxicity.
 likely to make someone leave a discussion.
 3. Toxic comment can be considered also the personal attack, the online harassment and bullying
 behaviors.
+
+The majority of previous work on toxic comments classifier are deep learning-based models like RNN, LSTM, and CNN. Deep learning-based models are hard to interpret, i.e. like a black box, and require huge dataset to get fair results. We wish to not only build a toxic comments classifier, but also be able to identify some high- level language features for toxic comments. Also, toxic comments are not necessarily totally toxic and may contain non-toxic information.
